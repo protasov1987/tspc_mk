@@ -1,12 +1,11 @@
 {
-  "name": "codex-project",
+  "name": "manufacturing-routes-ui",
   "version": "1.0.0",
-  "description": "Базовый шаблон проекта для Codex с GitHub CI",
-  "main": "src/main.js",
+  "description": "Статическое веб-приложение маршрутных технологических карт (HTML/CSS/JS).",
   "scripts": {
-    "dev": "npx live-server src",
     "test": "echo \"No tests configured\" && exit 0"
   },
+  "dependencies": {},
   "author": "",
   "license": "MIT"
 }
