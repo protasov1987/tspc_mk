@@ -4,14 +4,11 @@
   "description": "Базовый шаблон проекта для Codex с GitHub CI",
   "main": "src/main.js",
   "scripts": {
-    "dev": "npx live-server src",
+    "dev": "node server.js",
     "start": "node server.js",
     "test": "echo \"No tests configured\" && exit 0"
   },
-  "dependencies": {
-    "express": "^4.19.2",
-    "sqlite3": "^5.1.7"
-  },
+  "dependencies": {},
   "author": "",
   "license": "MIT"
 }
